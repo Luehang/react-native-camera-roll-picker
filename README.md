@@ -1,7 +1,7 @@
 [![version](https://img.shields.io/npm/v/react-native-camera-roll-picker.svg)](https://www.npmjs.org/package/react-native-camera-roll-picker) [![npm](https://img.shields.io/npm/dt/react-native-camera-roll-picker.svg)](https://www.npmjs.org/package/react-native-camera-roll-picker)
 
 # react-native-camera-roll-picker
-CameraRoll Picker component for React native
+CameraRoll Picker component for React native. This is a fork of https://github.com/dcmdestello/react-native-camera-roll-picker but implemented with flatlist which has replaced listview.
 
 <a href="https://raw.githubusercontent.com/jeanpan/react-native-camera-roll-picker/master/demo/demo.gif"><img src="https://raw.githubusercontent.com/jeanpan/react-native-camera-roll-picker/master/demo/demo.gif" width="350"></a>
 
@@ -46,7 +46,7 @@ import CameraRollPicker from 'react-native-camera-roll-picker';
 
 ## Run Example
 ```
-$ git clone https://github.com/jeanpan/react-native-camera-roll-picker.git
+$ git clone https://github.com/yehudahkay/react-native-camera-roll-picker.git
 $ cd react-native-camera-roll-picker
 $ cd Example
 $ npm install

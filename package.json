@@ -1,14 +1,14 @@
 {
-  "name": "react-native-camera-roll-picker",
-  "version": "1.2.3",
-  "description": "A React Native component providing images selection from camera roll ",
+  "name": "react-native-camera-roll-multi-picker",
+  "version": "1.2.4",
+  "description": "A React Native component providing multiple images selection from camera roll based on flatlist",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeanpan/react-native-camera-roll-picker.git"
+    "url": "git+https://github.com/yehudahkay/react-native-camera-roll-picker"
   },
   "keywords": [
     "react-native-component",
@@ -21,7 +21,7 @@
   "author": "jeanpan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jeanpan/react-native-camera-roll-picker/issues"
+    "url": "https://github.com/yehudahkay/react-native-camera-roll-picker/issues"
   },
-  "homepage": "https://github.com/jeanpan/react-native-camera-roll-picker#readme"
+  "homepage": "https://github.com/yehudahkay/react-native-camera-roll-pickerf#readme"
 }
