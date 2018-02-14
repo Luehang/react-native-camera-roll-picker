@@ -15,7 +15,7 @@ $ npm install react-native-camera-roll-picker --save
 
 * Require component
 ```
-import CameraRollPicker from 'react-native-camera-roll-picker';
+import CameraRollPicker from 'react-native-camera-roll-multi-picker';
 ```
 
 ## Basic Usage
