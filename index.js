@@ -298,7 +298,7 @@ CameraRollPicker.defaultProps = {
   scrollRenderAheadDistance: 500,
   initialListSize: 1,
   pageSize: 3,
-  removeClippedSubviews: true,
+  removeClippedSubviews: false,
   groupTypes: 'SavedPhotos',
   maximum: 15,
   imagesPerRow: 3,
